@@ -111,8 +111,6 @@ Scroll down and Click "Create Dept" <br>
 
   
 <strong>Configure Teams </strong> <br>
-Admin Panel -> Agents -> 
-
 <strong>Teams <br>
 Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
@@ -120,7 +118,6 @@ Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
 Click "Teams" <br>
 <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ddd9a107-ef8f-497b-a18d-27ad07698ec6">
 <br>
-<strong> Create "Teams" </strong><br>
 Click "Add New Team"> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/3a93c453-6465-4080-a9e3-316036d5bda1">
  <br>
@@ -132,14 +129,11 @@ Click the dropdown menu arrow (1), click our name (2), then click "Create Team" 
  <br>
 
   
-<strong>Allow anyone to create tickets </strong> <br>
-Starting at the Admin Panel Dashboard page, click Settings -> <br>
-<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ef9f1e3b-c52a-4997-91a0-339522b266b0">
+<strong> Allow anyone to create tickets </strong> <br>
+Starting at the Admin Panel Dashboard page, click Users -> <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
-Click Users <br>
-<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/c64f4740-9eca-4731-8022-e0b2008e64e1">
-<br>
-Make sure "Registration Required: Require registration and login to create tickets" is unchecked <br>
+Make sure "Registration Required: Require registration and login to create tickets" is unchecked, then create "Save Changes" <br>
 <img width="648" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/b2477d6c-79f3-4e0c-b519-a44aa9f2d9b5">
 <br>
 
@@ -267,18 +261,26 @@ Click "Add New Help Topic" <br>
 <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
 <br>
 
- - Business Critical Outage <br>
+For "Topic:" type "Business Critical Outage" (1), click "Add Topic (2), click "Help Topics (3) <br><br>
  <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/58633327-b91b-4b0e-8997-747f25ac0637">
 <br>
- - Personal Computer Issues <br>
+Click "Add New Help Topic" <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
+<br>
+For "Topic:" type "Personal Computer Issues" (1), click "Add Topic (2), click "Help Topics (3) <br>
  <img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ed85be1e-bb94-44e4-af0d-3314b8cbbc93">
 <br>
- - Equipment Request <br>
+Click "Add New Help Topic" <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
+<br>
+For "Topic:" type "Equipment Request" (1), click "Add Topic (2), click "Help Topics (3) <br>
  <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/022055f9-4dcf-432d-8335-ce006c4ff73f">
 <br>
- - Password Reset <br>
+Click "Add New Help Topic" <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
+<br>
+For "Topic:" type "Password Reset" (1), click "Add Topic (2) <br>
  <img width="654" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/05f775ae-62cc-41b1-9ac0-b2bb50fb44d2">
 <br>
-
 </p>
 <br />
