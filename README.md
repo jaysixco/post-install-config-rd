@@ -88,11 +88,18 @@ Check every box under Knowledgebase and then click "Add Role" <br>
 <br>
 
 <strong> Configure Departments </strong> <br>
-Admin Panel -> Agents -> Departments <br>
-System Administrators <br>
- - Click Add New Department> <br>
-Name: System Administrators> <br>
-Click "Create Dept" <br>
+Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
+<br>
+Click "Departments" <br>
+<img width="648" alt="departments page" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/5b8a4ae0-d001-4d3c-991a-3e27114c99ef">
+<strong> Create "System Administrators" </strong><br>
+Click Add New Department> <br>
+<img width="645" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/929eed21-5d9a-45e6-90bc-5a504c5944b3"> <br>
+For "Name:" type "System Administrators"> <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/6810b7bf-664c-4a85-b089-ac9da3bf0ab0">
+Scroll down and Click "Create Dept" <br>
+<img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/afa40ac4-b1e7-447b-b450-07d48e54ea84"> <br>
 
   
 <strong>Configure Teams </strong> <br>
