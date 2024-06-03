@@ -61,14 +61,32 @@ Agent panel: <br>
 
 
 <strong>Configure Roles </strong> <br>
-Admin Panel -> Agents (the one next to "Emails" -> Roles <br>
-Supreme Admin <br>
- - Click Add New Role> <br>
-Name: Supreme Admin> <br>
-Click Permissions Tab > <br>
+Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
+<br>
+Click Roles <br>
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/9032925b-0910-4aa0-9cfd-9f04f23607bc">
+<br>
+<strong> Create Supreme Admin </strong><br>
+Click Add New Role> <br>
+<img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/09ae8c92-6549-461d-9c51-b7fa56d4ba77">
+<br>
+For "Name:" type Supreme Admin (1), then click "Permissions" (2)> <br>
+<img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/f8300d07-dab4-4cce-9cbf-73f59eaab42d">
+<br>
 Give them permission to do everything (check every box under every tab - Tickets, Tasks, Knowledgebase) <br>
-Click Add Role
-  
+
+Check every box under Tickets <br>
+<img width="647" alt="tickets (1)" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/932559e2-10bc-463c-afb8-126350d9041d">
+
+Check every box under Tasks <br>
+<img width="647" alt="tasks (2)" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/fab506f7-4662-47b5-9f95-05e2c369d189">
+
+Check every box under Knowledgebase and then click "Add Role" <br>
+<img width="647" alt="knowledgebase (3) then click add role" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/55ddb2f8-3964-4f8f-ad5a-57e32b3114fc">
+<br>
+<br>
+
 <strong> Configure Departments </strong> <br>
 Admin Panel -> Agents -> Departments <br>
 System Administrators <br>
