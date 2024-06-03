@@ -41,11 +41,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> Go to this link http://localhost/osTicket/scp/login.php (it will take you to the login page) </strong>
 
 <strong> Login </strong>
-- The username and password will be the ones you created in the "Name the Helpdesk" section of the prerequisities and installation github <br>
+- Type the username and password you created in the "Name the Helpdesk" section of the prerequisities and installation github <br>
 - For me <br>
   - Username: Jay <br>
-  - Password: Password1
-  
+  - Password: Password1 <br>
+<img width="268" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/42b477f0-c459-4439-b655-01dec786b5ea">
+
+osTicket homepage: <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/17aa4caa-dd9d-4812-a673-82b110eb7767">
+
+Admin panel: <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
+<br>
+
+Agent panel: <br>
+<img width="653" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/f27a3f73-91de-4fe1-bf6f-241a0e6e83ad">
+<br>
+
+
+
 <strong>Configure Roles </strong> <br>
 Admin Panel -> Agents (the one next to "Emails" -> Roles <br>
 Supreme Admin <br>
