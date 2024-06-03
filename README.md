@@ -58,6 +58,11 @@ Agent panel: <br>
 <img width="653" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/f27a3f73-91de-4fe1-bf6f-241a0e6e83ad">
 <br>
 
+Admin-Agents Panel:
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/9c9fa47e-c065-4a42-bf32-ed3656077480">
+<br>
+
+
 
 
 <strong>Configure Roles </strong> <br>
@@ -106,26 +111,19 @@ Scroll down and Click "Create Dept" <br>
 Admin Panel -> Agents -> 
 
 <strong>Teams <br>
-Click Add New Team> <br>
-Name: Level II Support> <br>
-Members tab> <br>
-Click ourselves (but don't click add? for some reason)> <br>
-Create Team <br>
-Level I Support <br> 
-<br>
-
 Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
 Click "Teams" <br>
-<img width="653" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ec7744d9-316d-46e3-9069-843383e93ec3">
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ddd9a107-ef8f-497b-a18d-27ad07698ec6">
 <br>
 <strong> Create "Teams" </strong><br>
 Click "Add New Team"> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/3a93c453-6465-4080-a9e3-316036d5bda1">
  <br>
 For "Name:" type "Level II Support"(1) then click "Members" tab (2)> <br>
-<img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/9de99252-3818-4cde-8aba-38496ad21cd2">
+<img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/9de99252-3818-4cde-8aba-38496ad21cd2"> 
+<br>
 Click the dropdown menu arrow (1), click our name (2), then click "Create Team" (3) <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/e6a2d019-25da-47f1-b34a-c0f649e72112">
  <br>
