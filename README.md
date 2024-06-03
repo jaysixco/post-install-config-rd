@@ -252,15 +252,7 @@ Sev-C (8 hours, business hours)
 Admin Panel -> Manage -> Help Topics page, then click "Add New Help Topic" <br>
 <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
 <br>
-
-ALL you're doing now is copy and pasting the names below into Topic bar, then clicking "Add Topic"
-
-Edit steps in later: (Repeat 4x)
-For "Topic:" type "Business Critical Outage" (1), click "Add Topic (2), click "Help Topics (3) <br>
-Click "Add New Help Topic" <br>
-<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
 <br>
-
 For "Topic:" type "Business Critical Outage" (1), click "Add Topic (2), click "Help Topics (3) <br><br>
  <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/58633327-b91b-4b0e-8997-747f25ac0637">
 <br>
