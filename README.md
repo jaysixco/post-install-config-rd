@@ -206,44 +206,79 @@ Click "Create" <br>
 <br>
   
 <strong>Configure Users (customers) </strong>  <br>
-Agent Panel -> Users -> Add New  <br>
+Agent Panel -> 
+<img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/98a93c30-744e-4f35-921a-ce0076677bd5">
+<br>
+Users tab -> Add New  <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/5cbf4289-b22c-4fda-afa1-b50c8a438dd3">
+<br>
 
 <b> Karen  <br> </b>
- - Name: Karen@osticket.com <br>
+Name: Karen@osticket.com <br>
 Full name: Karen Karen> <br>
-Add New
+"Add User" <br>
+<img width="436" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/2fef0f2e-480e-4783-a202-c79f1ec4d309">
+<br>
 
 <b> Ken <br> </b>
- - Name: Ken@osticket.com <br>
+Name: Ken@osticket.com <br>
 Full name: Ken Ken> <br>
-Add New
+"Add User" <br>
+<img width="437" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/27abd9b5-ff5c-441d-af51-b737a6578bf7">
+<br>
   
 <strong>Configure SLA </strong>  <br>
 Admin Panel -> Manage -> SLA  <br>
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/7468d45c-e972-4205-8f14-b95d7f88b04f">
+<br>
+Click "Add New SLA Plan" <br>
+<img width="643" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/3e633145-ec71-4a9d-9ae7-d26abd83d119">
+<br>
 
 Sev-A (1 hour, 24/7)  <br>
-- Format> <br>
+Format> <br>
 Name: SEV-A <br>
 Grace Period: 1 <br>
 Schedule: 24/7 <br>
+<img width="648" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/27fbf6ea-8d28-4a56-a6e7-a1325359189a">
+<br>
 
 Just plug in with all the rest.
 
 The example above is just an example, by the way, and really unreasonable in the real world. It's basically saying that if a ticket comes in at 10am on a Sunday, the issue must be resolved by 11am. Very unreasonable because some IT workers could still be in church.
 
 Sev-B (4 hours, 24/7)  <br>
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/7db0d869-c0e5-4d53-940f-ce6d4d782cb8">
+<br>
+
 Sev-C (8 hours, business hours)
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/07f78d2d-7a5a-486a-99fd-b03bda27b429">
 
 <strong>Configure Help Topics </strong> <br>
-Admin Panel -> Manage -> Help Topics <br>
+Admin Panel -> Manage -> Help Topics page, then click "Add New Help Topic" <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
+<br>
 
-Add New> <br>
-ALL you're doing is copy and pasting the names below into Topic bar, then clicking add below, and then save changes (<em>just experimented - you don't need to click save changes</em>). DON'T type or change or add anything else.
+ALL you're doing now is copy and pasting the names below into Topic bar, then clicking "Add Topic"
+
+Edit steps in later: (Repeat 4x)
+For "Topic:" type "Business Critical Outage" (1), click "Add Topic (2), click "Help Topics (3) <br>
+Click "Add New Help Topic" <br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
+<br>
 
  - Business Critical Outage <br>
+ <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/58633327-b91b-4b0e-8997-747f25ac0637">
+<br>
  - Personal Computer Issues <br>
+ <img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ed85be1e-bb94-44e4-af0d-3314b8cbbc93">
+<br>
  - Equipment Request <br>
- - Password Reset
+ <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/022055f9-4dcf-432d-8335-ce006c4ff73f">
+<br>
+ - Password Reset <br>
+ <img width="654" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/05f775ae-62cc-41b1-9ac0-b2bb50fb44d2">
+<br>
 
 </p>
 <br />
