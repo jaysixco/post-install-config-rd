@@ -167,29 +167,43 @@ Click "Set" <br>
 <br>
 
  - <b>Access Tab> <br> </b>
-Click the Access Tab (under "Add New Agent" heading, to the right of "Accounts" tab) > <br>
-Under Primary Department, click the arrow in the box that says, "Select Department" > Select System "Administrators" > click the arrow in the box that says, "Select Role" > Select "Supreme Admin"
+Click the Access Tab, then click the arrow in the box that says, "Select Department" and click "System "Administrators"; then click the arrow in the box that says, "Select Role" and click, "Supreme Admin". When you're done, click "Create"<br>
+<img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/58d2f6af-c636-4efc-93aa-0c03f194ce56">
+<br>
+
 
  - <b>Teams tab> <br> </b>
-Level II Support (dont click Add)> <br>
-Click create <br>
+Click the "Teams" tab, then click "Level II Support", then click "Create" <br>
+<img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/e151bdfd-94bd-4919-95c8-da414e30cd40">
+<br>
 
-John <br>
- - Name: John Doe <br>
-Email Address: john.doe@osticket.com <br>
-Username: john.doe <br>
+<strong> Create an account for Agent John </strong> <br>
+In the Admin Panel, click "Agents" tab (1), then click "Add New Agent" (2) <br>
+<img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ee9c3419-8190-4122-adf5-ec4ba2d36654">
+<br>
+For "Name:" type "John Doe" (1) <br>
+For "Email Address:" type "john.doe@osticket.com" (2) <br>
+For "Username:" type "john.doe" (3) <br>
+Then click "Set password" (4) <br>
+<img width="643" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/493a3b4d-0ba2-4a0a-aa28-2823226a4879">
+<br>
 
- - <b>Set password> <br> </b>
-Click "Set Password" > Uncheck the box next to "Send the agent a password reset email" > Type a password
-Password: Password1 <br>
+ - <b> Set Agent Password> <br> </b>
+Uncheck the box next to "Send the agent a password reset email" > <br>
+For "Password:" type "Password1" (or whatever password you want)  <br>
+Retype the password you typed <br>
 Uncheck "Require password change at next login"> <br>
-Click Set
+Click "Set" <br>
 
  - <b>Access Tab> <br> </b>
-1st bar: Support <br>
-2nd bar: View only <br>
-Extended Access bar: Support> <br>
-Click "Create"
+<strong> Under "Primary Department" </strong>:
+For "Select Department": "Support" <br>
+For "Select Role": "View only" <br>
+<strong> Under "Extended Access" </strong>:
+For "Select Department": "Support" <br>
+Click "Create" <br>
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ca713807-cdea-4bbc-9130-bed469404012">
+<br>
   
 <strong>Configure Users (customers) </strong>  <br>
 Agent Panel -> Users -> Add New  <br>
