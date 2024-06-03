@@ -62,6 +62,9 @@ Admin-Agents Panel:
 <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/9c9fa47e-c065-4a42-bf32-ed3656077480">
 <br>
 
+Admin Panel Dashboard:
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/6e3d6e1d-260a-42b7-b222-90e20608bd0f">
+<br>
 
 
 
@@ -130,8 +133,15 @@ Click the dropdown menu arrow (1), click our name (2), then click "Create Team" 
 
   
 <strong>Allow anyone to create tickets </strong> <br>
-Admin Panel -> Click Settings -> Click Users <br>
+Starting at the Admin Panel Dashboard page, click Settings -> <br>
+<img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ef9f1e3b-c52a-4997-91a0-339522b266b0">
+<br>
+Click Users <br>
+<img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/c64f4740-9eca-4731-8022-e0b2008e64e1">
+<br>
 Make sure "Registration Required: Require registration and login to create tickets" is unchecked <br>
+<img width="648" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/b2477d6c-79f3-4e0c-b519-a44aa9f2d9b5">
+<br>
 
 
 <strong>Configure Agents (workers) </strong> <br>
