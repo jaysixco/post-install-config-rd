@@ -145,19 +145,26 @@ Make sure "Registration Required: Require registration and login to create ticke
 
 
 <strong>Configure Agents (workers) </strong> <br>
-Admin Panel -> Agents -> Add New <br>
+In the Admin Panel, click "Agents" tab (1), then click "Add New Agent" (2) <br>
+<img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ee9c3419-8190-4122-adf5-ec4ba2d36654">
+<br>
 
-Jane <br>
+<strong> Create an account for Agent Jane </strong> <br>
+For "Name:" type "Jane Doe" (1) <br>
+For "Email Address:" type "jane.doe@osticket.com" (2) <br>
+For "Username:" type "jane.doe" (3) <br>
+Then click "Set password" (4) <br>
+<img width="643" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/493a3b4d-0ba2-4a0a-aa28-2823226a4879">
+<br>
 
- - Name: Jane Doe <br>
-Email Address: jane.doe@osticket.com <br>
-Username: jane.doe <br>
-
- - <b> Set password> <br> </b>
-Click "Set Password" > Uncheck the box next to "Send the agent a password reset email" > Type a password
-Password: Password1 <br>
+ - <b> Set Agent Password> <br> </b>
+Uncheck the box next to "Send the agent a password reset email" > <br>
+For "Password:" type "Password1" (or whatever password you want)  <br>
+Retype the password you typed <br>
 Uncheck "Require password change at next login"> <br>
-Click Set
+Click "Set" <br>
+<img width="437" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/a653f390-2632-42c7-9303-1ef32ad66260">
+<br>
 
  - <b>Access Tab> <br> </b>
 Click the Access Tab (under "Add New Agent" heading, to the right of "Accounts" tab) > <br>
