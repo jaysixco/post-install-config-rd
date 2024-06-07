@@ -49,7 +49,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 osTicket homepage: <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/17aa4caa-dd9d-4812-a673-82b110eb7767">
+<br>
 
+Click "Admin Panel" to get to the Admin Panel <br>
 Admin panel: <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
@@ -79,7 +81,7 @@ Click Roles <br>
 Click Add New Role> <br>
 <img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/09ae8c92-6549-461d-9c51-b7fa56d4ba77">
 <br>
-For "Name:" type Supreme Admin (1), then click "Permissions" (2)> <br>
+For "Name:" type Supreme Admin (1), then click "Permissions" tab (2)> <br>
 <img width="646" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/f8300d07-dab4-4cce-9cbf-73f59eaab42d">
 <br>
 Give them permission to do everything (check every box under every tab - Tickets, Tasks, Knowledgebase) <br>
@@ -101,7 +103,7 @@ Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
 <br>
 Click "Departments" <br>
 <img width="648" alt="departments page" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/5b8a4ae0-d001-4d3c-991a-3e27114c99ef">
-<strong> Create "System Administrators" </strong><br>
+<strong> Create System Administrators </strong><br>
 Click Add New Department> <br>
 <img width="645" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/929eed21-5d9a-45e6-90bc-5a504c5944b3"> <br>
 For "Name:" type "System Administrators"> <br>
@@ -111,7 +113,6 @@ Scroll down and Click "Create Dept" <br>
 
   
 <strong>Configure Teams </strong> <br>
-<strong>Teams <br>
 Starting at the Admin Panel -> click Agents (the one next to "Emails" -> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
@@ -130,7 +131,7 @@ Click the dropdown menu arrow (1), click our name (2), then click "Create Team" 
 
   
 <strong> Allow anyone to create tickets </strong> <br>
-Starting at the Admin Panel Dashboard page, click Users -> <br>
+Click "Settings" tab (1), then click "Users" -> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
 Make sure "Registration Required: Require registration and login to create tickets" is unchecked, then create "Save Changes" <br>
@@ -161,13 +162,13 @@ Click "Set" <br>
 <br>
 
  - <b>Access Tab> <br> </b>
-Click the Access Tab, then click the arrow in the box that says, "Select Department" and click "System "Administrators"; then click the arrow in the box that says, "Select Role" and click, "Supreme Admin". When you're done, click "Create"<br>
+Click the Access Tab (1), then for the first box select "System "Administrators" (2); then for the second box select "Supreme Admin" (3). When you're done, click "Create" (4) <br>
 <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/58d2f6af-c636-4efc-93aa-0c03f194ce56">
 <br>
 
 
  - <b>Teams tab> <br> </b>
-Click the "Teams" tab, then click "Level II Support", then click "Create" <br>
+Click the "Teams" tab, then click "Level II Support", then click "Save changes" <br>
 <img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/e151bdfd-94bd-4919-95c8-da414e30cd40">
 <br>
 
@@ -179,7 +180,7 @@ For "Name:" type "John Doe" (1) <br>
 For "Email Address:" type "john.doe@osticket.com" (2) <br>
 For "Username:" type "john.doe" (3) <br>
 Then click "Set password" (4) <br>
-<img width="643" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/493a3b4d-0ba2-4a0a-aa28-2823226a4879">
+<img width="722" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/cb126ec1-8217-4190-bd9e-c4b130aa5604">\
 <br>
 
  - <b> Set Agent Password> <br> </b>
@@ -188,6 +189,8 @@ For "Password:" type "Password1" (or whatever password you want)  <br>
 Retype the password you typed <br>
 Uncheck "Require password change at next login"> <br>
 Click "Set" <br>
+<img width="437" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/a653f390-2632-42c7-9303-1ef32ad66260">
+<br>
 
  - <b>Access Tab> <br> </b>
 <strong> Under "Primary Department" </strong>:
