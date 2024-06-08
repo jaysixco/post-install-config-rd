@@ -192,40 +192,38 @@ Click "Set" <br>
 <img width="437" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/a653f390-2632-42c7-9303-1ef32ad66260">
 <br>
 
- - <b>Access Tab> <br> </b>
-<strong> Under "Primary Department" </strong>:
-For "Select Department": "Support" <br>
-For "Select Role": "View only" <br>
-<strong> Under "Extended Access" </strong>:
-For "Select Department": "Support" <br>
-Click "Create" <br>
+ - <b>Click the "Access" Tab (1) > <br> </b>
+For the first box, select "Support" (2) <br>
+For the second box, select "View only" (3) <br>
+For the third box, select "Support" (4) <br>
+Click "Create" (4) <br>
 <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/ca713807-cdea-4bbc-9130-bed469404012">
 <br>
   
 <strong>Configure Users (customers) </strong>  <br>
-Agent Panel -> 
+Click "Agent Panel" -> 
 <img width="650" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/98a93c30-744e-4f35-921a-ce0076677bd5">
 <br>
-Users tab -> Add New  <br>
+Click the "Users" tab then click "Add New" <br>
 <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/5cbf4289-b22c-4fda-afa1-b50c8a438dd3">
 <br>
 
 <b> Karen  <br> </b>
-Name: Karen@osticket.com <br>
+Email Address: Karen@osticket.com <br>
 Full name: Karen Karen> <br>
-"Add User" <br>
+Click "Add User" <br>
 <img width="436" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/2fef0f2e-480e-4783-a202-c79f1ec4d309">
 <br>
 
 <b> Ken <br> </b>
-Name: Ken@osticket.com <br>
+Email Address: Ken@osticket.com <br>
 Full name: Ken Ken> <br>
-"Add User" <br>
+Click "Add User" <br>
 <img width="437" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/27abd9b5-ff5c-441d-af51-b737a6578bf7">
 <br>
   
 <strong>Configure SLA </strong>  <br>
-Admin Panel -> Manage -> SLA  <br>
+Admin Panel -> "Manage" tab -> "SLA"  <br>
 <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/7468d45c-e972-4205-8f14-b95d7f88b04f">
 <br>
 Click "Add New SLA Plan" <br>
