@@ -235,6 +235,7 @@ Format> <br>
 Name: SEV-A <br>
 Grace Period: 1 <br>
 Schedule: 24/7 <br>
+Scroll down and click "Add plan" <br>
 <img width="648" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/27fbf6ea-8d28-4a56-a6e7-a1325359189a">
 <br>
 
@@ -243,14 +244,24 @@ Just plug in with all the rest.
 The example above is just an example, by the way, and really unreasonable in the real world. It's basically saying that if a ticket comes in at 10am on a Sunday, the issue must be resolved by 11am. Very unreasonable because some IT workers could still be in church.
 
 Sev-B (4 hours, 24/7)  <br>
+Format> <br>
+Name: SEV-B <br>
+Grace Period: 4 <br>
+Schedule: 24/7 <br>
+Scroll down and click "Add plan" <br>
 <img width="649" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/7db0d869-c0e5-4d53-940f-ce6d4d782cb8">
 <br>
 
-Sev-C (8 hours, business hours)
+Sev-C (8 hours, business hours) <br>
+Format> <br>
+Name: SEV-C <br>
+Grace Period: 8 <br>
+Schedule: Monday - Friday 8am-5pm with U.S. Holidays <br>
+Scroll down and click "Add plan" <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/07f78d2d-7a5a-486a-99fd-b03bda27b429">
 
 <strong>Configure Help Topics </strong> <br>
-Admin Panel -> Manage -> Help Topics page, then click "Add New Help Topic" <br>
+Admin Panel -> "Manage" tab -> Click "Help Topics" -> then click "Add New Help Topic" <br>
 <img width="644" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/953860a7-ff86-4c43-b1a3-756fab6396cf">
 <br>
 <br>
