@@ -47,11 +47,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Password: Password1 <br>
 <img width="268" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/42b477f0-c459-4439-b655-01dec786b5ea">
 
-osTicket homepage: <br>
+osTicket homepage; click "Admin Panel" to get to the Admin Panel <br> <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/17aa4caa-dd9d-4812-a673-82b110eb7767">
 <br>
 
-Click "Admin Panel" to get to the Admin Panel <br>
 Admin panel: <br>
 <img width="647" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/8e629b45-b8ee-4f4e-90ac-5f20e2505d7c">
 <br>
