@@ -5,7 +5,9 @@
 </p>
 
 <h1>Summary</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this tutorial we are going to *configure osTicket.<br />
+
+<em> *Configure means to set up an operation in a particular way. </em>
 
 
 <h2>Environments and Technologies Used</h2>
