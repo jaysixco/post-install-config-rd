@@ -14,7 +14,6 @@ In this tutorial we are going to *configure osTicket.<br />
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
-- Google Chrome
 
 <h2>Operating Systems Used </h2>
 
